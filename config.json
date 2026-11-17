@@ -1,0 +1,202 @@
+{
+ "ahead": 14,
+ "shop": {
+  "note": "",
+  "phone2": "",
+  "email": "",
+  "vk": "https://vk.ru/id777606366",
+  "tg": "",
+  "name": "Чистякoff",
+  "address": "ул. Нагорная, 48 ст3, Чита",
+  "phone": "+7 (914) 806-19-67",
+  "hours": [
+   [
+    "Ежедневно",
+    "09:00–21:00"
+   ]
+  ]
+ },
+ "levels": [
+  "Легковой",
+  "Кроссовер, джип",
+  "Микроавтобус"
+ ],
+ "services": [
+  {
+   "name": "Комплексная мойка",
+   "group": "",
+   "desc": "",
+   "estimate": true,
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": 60,
+     "estimate": true
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": 60,
+     "estimate": true
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": 60,
+     "estimate": true
+    }
+   }
+  },
+  {
+   "name": "Бесконтактная мойка",
+   "group": "",
+   "desc": "",
+   "estimate": true,
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": 30,
+     "estimate": true
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": 30,
+     "estimate": true
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": 30,
+     "estimate": true
+    }
+   }
+  },
+  {
+   "name": "Химчистка салона",
+   "group": "",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": null
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": null
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Полировка кузова",
+   "group": "",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": null
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": null
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Покрытие кузова керамикой",
+   "group": "",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": null
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": null
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Мойка днища",
+   "group": "К мойке",
+   "desc": "",
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": null
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": null
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Мойка двигателя",
+   "group": "К мойке",
+   "desc": "",
+   "prices": {
+    "Легковой": {
+     "price": null,
+     "minutes": null
+    },
+    "Кроссовер, джип": {
+     "price": null,
+     "minutes": null
+    },
+    "Микроавтобус": {
+     "price": null,
+     "minutes": null
+    }
+   }
+  }
+ ],
+ "masters": [
+  {
+   "id": "m1",
+   "name": "Пост 1",
+   "level": "Легковой",
+   "exp": "",
+   "hours": {
+    "Пн": "09:00-21:00",
+    "Вт": "09:00-21:00",
+    "Ср": "09:00-21:00",
+    "Чт": "09:00-21:00",
+    "Пт": "09:00-21:00",
+    "Сб": "09:00-21:00",
+    "Вс": "09:00-21:00"
+   }
+  },
+  {
+   "id": "m2",
+   "name": "Пост 2",
+   "level": "Легковой",
+   "exp": "",
+   "hours": {
+    "Пн": "09:00-21:00",
+    "Вт": "09:00-21:00",
+    "Ср": "09:00-21:00",
+    "Чт": "09:00-21:00",
+    "Пт": "09:00-21:00",
+    "Сб": "09:00-21:00",
+    "Вс": "09:00-21:00"
+   }
+  }
+ ]
+}
